@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Bhargav Dokala
 
-<!--
-**bhargavdokala-ui/bhargavdokala-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 B.Tech (CSE) student passionate about web development & programming  
+💻 Currently exploring JavaScript, Python, C++, and modern web technologies  
+🚀 Love building interactive projects like Quiz apps, games & web tools
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 My Projects
+- 🎉 [Quiz App](https://quiz-app-b.netlify.app/) – Subject-based quiz game with live feedback
+- 🎮 [Tic-Tac-Toe 3×3](https://tic-tac-toe-3x3-b.netlify.app/) – Classic game with clean UI
+
+---
+
+## 📫 Connect with me
+- ✉️ Email: bhargavdokala6684@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bhargav-dokala-b2909b27b)
+- 💻 [GitHub](https://github.com/bhargavdokala-ui)
+
+---
+
+⭐ *Always learning, always coding!* 🌟
