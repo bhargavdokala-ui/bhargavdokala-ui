@@ -4,9 +4,13 @@
 💻 Currently exploring JavaScript, Python, C++, React, Node.js & modern web frameworks  
 🚀 Love building interactive projects, games, and tools that solve real problems
 
+🌐 **Check out my new portfolio:**  
+🔗 [https://portfolio-bhargavdokala.netlify.app/](https://portfolio-bhargavdokala.netlify.app/)
+
 ---
 
 ## 🛠 My Projects
+- 🎨 [Portfolio Website](https://portfolio-bhargavdokala.netlify.app/) – Personal website showcasing my projects, skills, and certifications
 - 🎉 [Quiz App](https://quiz-app-b.netlify.app/) – Fun subject‑based quiz game with scoring & animated feedback
 - 🎮 [Tic-Tac-Toe 3×3](https://tic-tac-toe-3x3-b.netlify.app/) – Classic web-based game with smooth gameplay
 - 📚 [LearnHub – Online Learning Platform](https://learnhubrce.vercel.app/) – MERN-stack learning platform with role-based dashboards, course enrollment, and certificate generation
